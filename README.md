@@ -19,10 +19,6 @@ I'm Conner Sparks
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### GitHub Stats
-
-![Conner's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
 ### 📫 How to reach me
 - [Email](sparks.conner@gmail.com)
 - [LinkedIn]([www.linkedin.com/in/clsparks])
