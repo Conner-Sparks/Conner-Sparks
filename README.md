@@ -4,7 +4,7 @@ I'm Conner Sparks
 
 ### 🔭 I’m currently working on
 - [MineLapse](https://github.com/MineLapse) – A Minecraft plugin written in Java and Kotlin that tracks block and player state updates to be streamed to a live action map. The plugin persists data in MongoDB to create timelapses of world activity.
-- [FitGit](https://github.com/FitGit) – A personal CLI Git tool. 
+- [FitGit](https://github.com/huntere2501/FitGit) – A personal CLI Git tool. 
 
 ### 🛠 Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
